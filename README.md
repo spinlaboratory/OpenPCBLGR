@@ -23,3 +23,6 @@ CERN-OHL-S v2 — see [LICENSE](LICENSE)
 
 ## Contributing
 Issues and pull requests are welcome — please see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+## Note
+This project originated at Bridge12 Technologies, whose EPR business was acquired by Bruker in October 2024. Some older assets in this repository (renderings, manuals, presentation slides) may still show Bridge12 branding.
