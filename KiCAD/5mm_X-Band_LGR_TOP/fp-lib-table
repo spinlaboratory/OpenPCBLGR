@@ -1,3 +1,2 @@
 (fp_lib_table
-  (lib (name B12T_Open_PCB_LGR)(type KiCad)(uri ../footprints/B12T_Open_PCB_LGR.pretty)(options "")(descr ""))
 )

@@ -7,7 +7,7 @@ Sheet 1 1
 Title "Open PCB LGR"
 Date "2022-07-15"
 Rev "1.0"
-Comp "Bridge12 Technologies, Inc."
+Comp ""
 Comment1 "X-Band Loop Gap Resonator TOP"
 Comment2 ""
 Comment3 ""

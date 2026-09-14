@@ -3,7 +3,7 @@
 
 ![OpenPCBLGR Resonator](Manual/RESONATOR_72dpi.png)
 
-Open-hardware design for a PCB-based loop-gap resonator (LGR), by Thorsten Maly ([@thmaly](https://twitter.com/thmaly)) / [Bridge12 Technologies](https://www.bridge12.com/).
+Open-hardware design for a PCB-based loop-gap resonator (LGR), by Thorsten Maly ([@thmaly](https://twitter.com/thmaly)).
 
 ## Contents
 - [`KiCAD/`](KiCAD) — PCB source files and gerbers (resonator top/bottom, coupling loop)
