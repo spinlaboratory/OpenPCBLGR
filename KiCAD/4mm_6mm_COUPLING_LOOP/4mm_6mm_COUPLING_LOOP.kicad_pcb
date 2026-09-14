@@ -14,7 +14,7 @@
     (title "Open PCB LGR - COUPLING LOOP 4mm_6mm")
     (date 2022-07-15)
     (rev 1.0)
-    (company "Bridge12 Technologies, Inc.")
+    (company "")
     (comment 1 "X-Band Loop Gap Resonator Coupling Loop")
     (comment 4 "Timothy Keller")
   )
@@ -112,7 +112,7 @@
     (add_net "Net-(AE1-Pad1)")
   )
 
-  (module B12T_Open_PCB_LGR:4mm_Offset_6mm_Diameter_141-Semi-Rigid_Coupling_Loop (layer F.Cu) (tedit 624F2470) (tstamp 62D1DE67)
+  (module OpenPCBLGR:4mm_Offset_6mm_Diameter_141-Semi-Rigid_Coupling_Loop (layer F.Cu) (tedit 624F2470) (tstamp 62D1DE67)
     (at 100 100)
     (path /610DA1B7)
     (fp_text reference AE1 (at 5.08 3.81) (layer F.SilkS) hide

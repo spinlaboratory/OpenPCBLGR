@@ -7,7 +7,7 @@ Sheet 1 1
 Title "Open PCB LGR"
 Date "2022-07-15"
 Rev "1.0"
-Comp "Bridge12 Technologies, Inc."
+Comp ""
 Comment1 "X-Band Loop Gap Resonator"
 Comment2 ""
 Comment3 ""
@@ -19,7 +19,7 @@ U 1 1 608B011B
 P 2000 1500
 F 0 "H1" H 2100 1549 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2100 1458 50  0000 L CNN
-F 2 "B12T_Open_PCB_LGR:5.2mm_3L2G_X-Band" H 2000 1500 50  0001 C CNN
+F 2 "OpenPCBLGR:5.2mm_3L2G_X-Band" H 2000 1500 50  0001 C CNN
 F 3 "~" H 2000 1500 50  0001 C CNN
 	1    2000 1500
 	1    0    0    -1  

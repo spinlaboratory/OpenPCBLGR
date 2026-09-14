@@ -14,7 +14,7 @@
     (title "Open PCB LGR")
     (date 2022-07-15)
     (rev 1.0)
-    (company "Bridge12 Technologies, Inc.")
+    (company "")
     (comment 1 "X-Band Loop Gap Resonator")
     (comment 4 "Timothy Keller")
   )
@@ -195,7 +195,7 @@
       (net 1 GND))
   )
 
-  (module B12T_Open_PCB_LGR:5.2mm_3L2G_X-Band (layer F.Cu) (tedit 608B160C) (tstamp 62D1ECA3)
+  (module OpenPCBLGR:5.2mm_3L2G_X-Band (layer F.Cu) (tedit 608B160C) (tstamp 62D1ECA3)
     (at 100 100)
     (path /608B011B)
     (fp_text reference H1 (at 1.27 -6.35) (layer F.SilkS) hide
