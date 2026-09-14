@@ -1,17 +1,25 @@
 # OpenPCBLGR
-## An Open-Source Loop-Gap Resonator for X-Band EPR Spectroscopy
-### Rev 1.0
+### Open-Source Loop-Gap Resonator for X-Band EPR Spectroscopy — Rev 1.0
 
 ![OpenPCBLGR Resonator](Manual/RESONATOR_72dpi.png)
 
+Open-hardware design for a PCB-based loop-gap resonator (LGR), by Thorsten Maly ([@thmaly](https://twitter.com/thmaly)) / [Bridge12 Technologies](https://www.bridge12.com/).
+
 ## Contents
-This repository contains CAD files (solidworks and STEP files), 3d printer files (STL), KiCAD project files, 
-PCB gerber files, bill of materials (BOM), and the assembly manual.
+- [`KiCAD/`](KiCAD) — PCB source files and gerbers (resonator top/bottom, coupling loop)
+- [`Model/`](Model) — mechanical parts: SolidWorks, STEP, and 3D-print (STL) files
+- [`Manual/`](Manual) — assembly instructions, BOM, and workshop presentation
 
-In 2023 Thorsten Maly [(@thmaly)](https://twitter.com/thmaly) presented a workshop at the 62<sup>nd</sup> [Rocky Mountain Conference](https://rockychem.com/) on the design and assembly of the OpenPCBLGR. The presentation is available in the manuals folder of the the repository or for download on the [OpenPCBLGR Webpage](https://www.bridge12.com/learn/open-pcb-lgr/).
+## Documentation
+Full build documentation and background: **[docs site — TODO]**
 
-## Assembly Manual
-The assembly manual for Rev1.0 is found in the [Assembly Manual](Manual/PCB%20LGR%20Assembly%20Instructions%20Rev1.0.docx) word document.
+## Quick Start
+1. Order PCBs from the gerber files (e.g. [JLCPCB](https://jlcpcb.com/)) — no modifications needed for stock builds
+2. Print/machine mechanical parts from [`Model/`](Model)
+3. Follow the [Assembly Manual](Manual/PCB%20LGR%20Assembly%20Instructions%20Rev1.0.docx)
 
-## Ordering PCBs
-If no modifications to the resonator are required, the gerber files can be uploaded directly to the manufacturer's website ([JLCPCB](https://jlcpcb.com/)).
+## License
+CERN-OHL-S v2 — see [LICENSE](LICENSE)
+
+## Contributing
+Issues and pull requests are welcome — please see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
