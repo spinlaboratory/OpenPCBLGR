@@ -19,7 +19,7 @@ Full build documentation and background: **[docs site — TODO]**
 3. Follow the [Assembly Manual](Manual/PCB%20LGR%20Assembly%20Instructions%20Rev1.0.docx)
 
 ## License
-GPLv3 — see [LICENSE](LICENSE)
+CERN-OHL-S v2 — see [LICENSE](LICENSE)
 
 ## Contributing
 Issues and pull requests are welcome — please see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
